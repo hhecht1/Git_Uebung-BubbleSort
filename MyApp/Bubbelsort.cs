@@ -26,7 +26,7 @@ public class BubbleSort
 
             // Nach jedem Durchlauf ist das größte Element am Ende,
             // daher nur bis Length - i - 1 vergleichen.
-            for (int j = 0; j < arr.Length - i - 1; j++)
+            for (int j = 0; j < n - 1 - i; j++
             {
                 if (arr[j] > arr[j + 1])
                 {
