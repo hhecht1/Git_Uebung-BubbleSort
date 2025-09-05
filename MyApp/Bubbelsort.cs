@@ -23,7 +23,7 @@ public class BubbleSort
         for (int i = 0; i < arr.Length - 1; i++)
         {
             bool getauscht = false;
-
+            // Die innere Schleife durchläuft das Array
             // Nach jedem Durchlauf ist das größte Element am Ende,
             // daher nur bis Length - i - 1 vergleichen.
             for (int j = 0; j < n - 1 - i; j++
