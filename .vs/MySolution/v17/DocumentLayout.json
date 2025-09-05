@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Reha-TN\\Git_Uebung-BubbleSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCF558B-469F-4B11-A335-12AE08690D27}|MyApp\\MyApp.csproj|c:\\users\\reha-tn\\git_uebung-bubblesort\\myapp\\bubbelsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCF558B-469F-4B11-A335-12AE08690D27}|MyApp\\MyApp.csproj|solutionrelative:myapp\\bubbelsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bubbelsort.cs",
+              "DocumentMoniker": "C:\\Users\\Reha-TN\\Git_Uebung-BubbleSort\\MyApp\\Bubbelsort.cs",
+              "RelativeDocumentMoniker": "MyApp\\Bubbelsort.cs",
+              "ToolTip": "C:\\Users\\Reha-TN\\Git_Uebung-BubbleSort\\MyApp\\Bubbelsort.cs",
+              "RelativeToolTip": "MyApp\\Bubbelsort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T07:34:51.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
